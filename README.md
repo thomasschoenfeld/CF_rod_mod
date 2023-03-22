@@ -21,6 +21,9 @@ BOM
 - 2x M5x20 thick head
 - 1x M5x25 thick head
 - 1x M5x30 thick head
+- IGUS drylin RJ4JP-01
+- CF rods 12mm x 1meter (466mm and 458mm)
+- heat inserts
 
 Where flat head (BHCS) or thick head (SHCS) is meantioned, it should be used as such. The others may be either one. Uusing flat heads where possible will save some extra weight.
 
