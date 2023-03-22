@@ -42,7 +42,7 @@ fully assmebled with the toolhead-carriage module >> 399g (minus 18.1g for missi
 The ultra light weight full aluminium X (Fystec ultra light aluminium X beam and light weight aluminium CNC'ed AB joints) with all titianum screws ends up at 490.2g.
 The Carbon Fiber ROD MOD comes in at 380,9g* (399g but I was missing some titanium screws / nuts).
 
-490,2g - 380,9g = 109,3g or 77.7% > 26.6% lighter
+490,2g - 380,9g = 109,3g or 77.7% > 22.3% lighter
 
 other versions (not tested as the compact version showed the best CG location)
 
