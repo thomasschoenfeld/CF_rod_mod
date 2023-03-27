@@ -8,7 +8,15 @@ This mod is designed to essentially reduce the weight on the x axis of the gantr
 - hightower > rods further apart, improving vertical stability, but may have issues with binding of the IGUS as well as torque on the AB joints
 - hightower dual rail > using MGN9 rails on the top and bottom of the Y axis, improving stability but also increasing the weight.
 
-Currently pre-testing calculations are ongoing. After those, the most promising mod will be tested. I will update GitHub with results / graphs.
+The compact version showed to be the one with the best CG and will be therefore “the chosen one”.
+
+After printing an testing the first version, following things came to light:
+- B motor was loose… great stuff… all my measurements in the last 2 weeks are worthless. 
+- the main issue however are tolerances. Buying an expensive CF rod from IGUS together with the Rj4J, which certainly is an option, would cost more than 100€, which all things considered, is still okay. Cheap CF from eBay or AliExpress will typically be not up to specs. One way I tried solving this, by allowing the bushings to be squished, changed the geometry and orientation etc… but nothing really worked well…. 
+- I found out, that IGUS also sells the base material of its bushing as a normal 3D printable filament. This for one solves the tolerance issues and while not cheap, about 70€ for a 750g spool, you can simply measure and test-print you own bushings. Once you have perfectly smooth bushing on the given CF rod, you can adjust the toolhead tolerances accordingly.
+- Since I am now aware of the IGUS filament, a bunch of new ideas come to mind. For example a aluminium square tube 22x20mm, which is about 175g for a 430mm long tube, could be used as rail and a custom bushing around it. More to come on this idea.
+- the toolhead can now only be swapped by taking out the whole x-axis. This is a trade off, better stability but a bit more work
+
 
 BOM
 - 2x M3x10 flat head
