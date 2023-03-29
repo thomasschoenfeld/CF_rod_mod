@@ -1,6 +1,8 @@
 # CF ROD MOD
 a carbon fiber mod with rods instead of a square x-beam and without the linear rails
 
+![cf mod](img/CF_rod_mod.jpg)
+
 THIS MOD IS STILL ALPHA!
 
 This mod is designed to essentially reduce the weight on the x axis of the gantry of a Voron 2.4 by about half. It uses 12mm carbon fiber rods and IGUS bushings. As this mod is still ALPHA. 
@@ -27,7 +29,6 @@ END LOG
 fully assmebled with the toolhead-carriage module >> 399g (minus 18.1g for missing titianium screws >> 380,9g)
 
 ![fully alu x](img/Alu.jpg)
-![cf mod](img/CF_rod_mod.jpg)
 ![v3](img/v3.png)
 ![v3 with other parts](img/v3_with_other_parts.png)
 
