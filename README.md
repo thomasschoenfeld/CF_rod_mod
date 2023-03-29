@@ -1,5 +1,8 @@
 # CF ROD MOD
 a carbon fiber mod with rods instead of a square x-beam and without the linear rails
+- extruder > Hextrudort
+- hotend > Goliath
+- no other combinations are currently supported, but the fusion file is available so knock yourself out :-)
 
 ![cf mod](img/CF_rod_mod.jpg)
 
