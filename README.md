@@ -3,8 +3,7 @@ a carbon fiber mod with rods instead of a square x-beam and without the linear r
 
 THIS MOD IS STILL ALPHA!
 
-This mod is designed to essentially reduce the weight on the x axis of the gantry of a Voron 2.4 by about half. It uses 12mm carbon fiber rods and IGUS bushings. As this mod is still ALPHA, currently 3 version are prepared. 
-
+This mod is designed to essentially reduce the weight on the x axis of the gantry of a Voron 2.4 by about half. It uses 12mm carbon fiber rods and IGUS bushings. As this mod is still ALPHA. 
 
 current version v3 - changelog
 - the carriage has been completely redesigned. It is now printed on its side, thereby allowing very tight tolerances. it also allows to print easily modify the spacing between the bushings as well as the diameter of the cut-out. This way one can simply print a couple of them in various sizes and use the one that fits best. This is all in all a big step into the right direction, because now the normal IGUS RJ4J bushings can be ordered and used, even if the CF rods are not up to specs. One simply uses the pressure of the carriage on the IGUS bushings, to tighten thing so the desired fit. This also means, the bushings do not need to be secured anymore, as they simply hold with the pressure of the carriage, while still gliding smoothing on the CF rod. However the sides of the toolhead are designed in way, that would still hold the bushing, should they slip out.
